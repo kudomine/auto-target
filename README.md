@@ -71,4 +71,4 @@ A: keyFile is system to bind script on computer make it cannot share</br>
 </br>
 Q: it generate keyFile for me but not work</br>
 A: you need send that keyFile to me for make it active</br>
-    so this script is not public but if you can find me i will give you lol~</br>
+this script so much effect in PVP so it not public lol~</br>
